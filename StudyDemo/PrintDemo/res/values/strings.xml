@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrintDemo</string>
+    <string name="action_table1">打印表1</string>
+    <string name="action_table2">打印表2</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

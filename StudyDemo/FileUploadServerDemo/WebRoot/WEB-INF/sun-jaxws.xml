@@ -1,0 +1,7 @@
+<?xml version = "1.0"?>
+<endpoints version="2.0"
+	xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+	<endpoint name="FileUploadPort"
+		implementation="com.loveplusplus.file.FileUploadDelegate"
+		url-pattern="/FileUploadPort">
+	</endpoint></endpoints>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoaderDemo</string>
+    <string name="select_province">请选择省份</string>
+    <string name="select_city">请选择城市</string>
+    <string name="select_county">请选择县</string>
+    <string name="menu_download_data">下载数据</string>
+
+</resources>
